@@ -12,12 +12,12 @@ el codigo funciona a partir de una base de datos creada en MySql WORKBENCH para 
 
 Este proyecto fue creado con esfuerzo y dedicacion gracias a:
 
-\\Bryan Elgueta//
+\Bryan Elgueta/
 
-\\Jose Celis//
+\Jose Celis/
 
-\\Davor Mella//
+\Davor Mella/
 
-\\Diego Parraguez//
+\Diego Parraguez/
 
 
