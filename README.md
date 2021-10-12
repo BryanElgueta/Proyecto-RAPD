@@ -13,8 +13,11 @@ el codigo funciona a partir de una base de datos creada en MySql WORKBENCH para 
 Este proyecto fue creado gracias a:
 
 • Bryan Elgueta
+
 • Jose Celis
+
 • Davor Mella
+
 • Diego Parraguez
 
 
