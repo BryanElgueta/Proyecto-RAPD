@@ -10,7 +10,7 @@ el codigo funciona a partir de una base de datos creada en MySql WORKBENCH para 
 
 ###### Integrantes ######
 
-Este proyecto fue creado gracias a:
+Este proyecto fue creado en conjunto por:
 
 • Bryan Elgueta
 
